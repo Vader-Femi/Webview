@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     private var progress: Progress? = null
     private var isLoaded: Boolean = false
     private var doubleBackToExitPressedOnce = false
-    private var webURL = getString(R.string.web_url)
+    private var webURL = "https://google.com/"
     private lateinit var webView: WebView
 
     override fun onCreate(savedInstanceState: Bundle?) {
