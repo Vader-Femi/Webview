@@ -5,7 +5,7 @@ A WebView container. Just replace the
 
 * App name -> go to "app\src\main\res\values\strings.xml". You can edit it there.
 
-* webURL -> go to "app\src\main\java/com/yusuf/codegridx/MainActivity.kt".
+* webURL -> go to "app\src\main\java\com\femi\webviewcontroller\MainActivity.kt".
   You'll see a variable there called "webURL". But don't for get the blackslash at the end i.e "https:\\google.com\".
   Also, I think it has to be https, i'm not sure again 
 
